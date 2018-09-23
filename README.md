@@ -40,7 +40,7 @@ To use this exercise you should either:
 Then in Azure Notebooks or Jupyter Notebook:
 * open the workbook **ex_C_workbook.ipynb** and work through it.
 * once you have completed the workbook, then move onto the homework book **ex_C_homework.ipynb**
-* we will go through everyones completed notebook in *Seminar C*.
+* we will go through everyones completed notebook in [Seminar C](https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54062?module_item_id=277993).
 
 -------------------------
 
