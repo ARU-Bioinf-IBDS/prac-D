@@ -1,4 +1,4 @@
-# Exercise C: Conditional tests and loops.
+# Practical D: Conditional tests and loops.
 
 Before starting this exercise you should work through
 
