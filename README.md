@@ -1,6 +1,20 @@
 # Practical D: Conditional tests and loops.
 
-Before starting this exercise you should work through
+## Practical Learning Outcomes
+
+This practical looks at how to use conditional tests and loops in Python. This
+is important to be able to make decisions about what to do in a program
+and to be able to repeat operations. 
+
+By the end of Practical D you will be able to:
+* Use comparison operators to construct logical statements.
+* Combine booleans with `and`, `or` and `not`.
+* Use the control flow statements `if`, `elif`, `else` to make choices in programs.
+* Use the for statement to loop through lists and strings.
+* Understand how to use `enumerate` to loop through a list with an index.
+
+## Preparation
+To prepare for this practical you should first work through:
 
 * First part of *Chapter 3 Logic, Control Flow and Filtering* 
   stopping before the video "Filtering Pandas DataFrame",
