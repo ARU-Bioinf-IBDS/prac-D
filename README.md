@@ -80,4 +80,4 @@ Then in Azure Notebooks or Jupyter Notebook:
 
 > <img src="https://aru-bioinf-ibds.github.io./images/DataCamp_Horizontal_RGB.svg" width="150"> 
 >
-> 
+> **A big thanks to [DataCamp](https://www.datacamp.com/) for supporting this class!**
