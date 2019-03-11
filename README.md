@@ -10,7 +10,7 @@ By the end of Practical D you will be able to:
 * Use comparison operators to construct logical statements.
 * Combine booleans with `and`, `or` and `not`.
 * Use the control flow statements `if`, `elif`, `else` to make choices in programs.
-* Use the for statement to loop through lists and strings.
+* Use the `for` statement to loop through lists and strings.
 * Understand how to use `enumerate` to loop through a list with an index.
 
 ## Preparation
