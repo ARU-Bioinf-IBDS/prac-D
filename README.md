@@ -24,8 +24,9 @@ To prepare for this practical you should first work through:
 from the
 [DataCamp](https://www.datacamp.com/)
 online course: [Intermediate Python for Data Science
-](https://www.datacamp.com/courses/intermediate-python-for-data-science),
-.
+](https://www.datacamp.com/courses/intermediate-python-for-data-science). 
+Note that you will need to use your DataCamp Academic Group account to access these chapters for free.
+
 We will then exercise what you have learnt with bioinformatics-related examples.
 
 ## The practical
