@@ -65,7 +65,7 @@ Then in Azure Notebooks or Jupyter Notebook:
 * open the workbook **workbook_D.ipynb** and work through it.
 * once you have completed the workbook, then move onto the homework book **homework_D.ipynb**
 * then go on to [Reflection on Practical D: Conditional tests and loops](
-  https://canvas.anglia.ac.uk/courses/1490/discussion_topics/54062).
+  https://canvas.anglia.ac.uk/courses/12178/discussion_topics/108481).
 
 -------------------------
 
